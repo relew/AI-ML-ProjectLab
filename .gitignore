@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#manual
+/NLP-trackless-extension/results/
+/NLP-trackless-extension/original_distilbert/
+/NLP-trackless-extension/trackless-venv/
