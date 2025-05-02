@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "LLM Anti-Tracker",
+  "name": "Restless Trackless Anti-Tracker",
   "version": "1.0",
-  "description": "Uses LLM to detect tracking URLs",
+  "description": "Uses NLP to detect tracking URLs",
   "permissions": [
     "declarativeNetRequest",
     "storage",
@@ -16,9 +16,9 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "images/icon16.png",
-      "48": "images/icon48.png",
-      "128": "images/icon128.png"
+      "16": "images/mage_icon16.png",
+      "48": "images/mage_icon48.png",
+      "128": "images/mage_icon128.png"
     }
   },
   "content_security_policy": {
