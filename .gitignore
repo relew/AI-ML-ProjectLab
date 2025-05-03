@@ -177,3 +177,8 @@ cython_debug/
 /NLP-trackless-extension/results/
 /NLP-trackless-extension/original_distilbert/
 /NLP-trackless-extension/trackless-venv/
+**/.Data/
+**/.data/
+**/.DS_data_input/
+**/.DS_intermediate_data/
+*.bin
