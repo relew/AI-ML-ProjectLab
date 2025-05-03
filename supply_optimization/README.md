@@ -1,5 +1,7 @@
 # Ride-Hailing Demand Prediction Task
 
+![Description of the image](Designer.jpeg)
+
 ## Problem
 
 In a ride-hailing marketplace, efficient supply-demand matching is critical. The challenge here is to guide drivers toward high-demand areas, ensuring that riders get timely rides and drivers maintain steady earnings. Understanding demand fluctuations across time and location is key to optimizing this system.
